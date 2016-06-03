@@ -1,0 +1,18 @@
+{
+  "name": "namespace_symlinker",
+  "version": "1.0.0",
+  "description": "A script to automatically symlink namespaced GIT cloned directories into node_module directories",
+  "author": {
+    "name": "Brandon Heyer",
+    "email": "brandonheyer@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonheyer/namespace_symlinker.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "rimraf": "^2.5.0"
+  }
+}
